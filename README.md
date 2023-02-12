@@ -1,0 +1,3 @@
+# CBRE-Challenge
+
+CBRE is the #1 commercial real estate firm in the world. Your challenge is to create a prototype intended to improve the “site selection” process in commercial real estate – which is the process of selecting a plot of land or existing building/structure to develop for business purposes. Utilize AI/ML to help CBRE confidently identify the location of their next commercial development endeavor. Factors that are considered, when choosing the best possible site, are 1) target audience, 2) demographics (location, zoning, labor analytics, etc.) and 3) historically profitable locations/markets. Please use the data here: [https://cbre.ent.box.com/s/i8all613pbe71bex02e4jecsxuhr4d6d](https://cbre.ent.box.com/s/i8all613pbe71bex02e4jecsxuhr4d6d)
